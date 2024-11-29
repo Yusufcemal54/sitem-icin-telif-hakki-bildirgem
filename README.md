@@ -1,4 +1,4 @@
-# sitem-için-telif-hakkı--bildirgem
+# sitem-için-telif-hakkı-bildirgem
 YCŞ HOLDİNG Telif Hakkı ve Kullanıcı Hakları Bildirgesi
 
 Giriş
