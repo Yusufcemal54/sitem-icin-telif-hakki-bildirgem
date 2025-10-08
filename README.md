@@ -1,8 +1,8 @@
 # sitem-için-telif-hakkı-bildirgem
-YCŞ HOLDİNG Telif Hakkı ve Kullanıcı Hakları Bildirgesi
+YCŞ SOFTWARE(HOLDİNG) Telif Hakkı ve Kullanıcı Hakları Bildirgesi
 
 Giriş
-Bu web sitesi (ycs-holding.web.app) ve içerikleri (yazılar, görseller, videolar, grafikler, logolar, ses kayıtları, yazılımlar, kodlar, veri tabanları ve diğer dijital materyaller), YCŞ HOLDİNG’in mülkiyetindedir ve Türkiye Cumhuriyeti Fikir ve Sanat Eserleri Kanunu (FSEK), Kişisel Verilerin Korunması Kanunu (KVKK), Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) ve uluslararası düzenlemelerle korunmaktadır. Bu bildirge, eser sahiplerinin haklarını ve kullanıcıların veri güvenliğini koruma amacı taşır.
+Bu web sitesi (ycs-holding.web.app) ve içerikleri (yazılar, görseller, videolar, grafikler, logolar, ses kayıtları, yazılımlar, kodlar, veri tabanları ve diğer dijital materyaller), YCŞ SOFTWARE’in mülkiyetindedir ve Türkiye Cumhuriyeti Fikir ve Sanat Eserleri Kanunu (FSEK), Kişisel Verilerin Korunması Kanunu (KVKK), Avrupa Birliği Genel Veri Koruma Tüzüğü (GDPR) ve uluslararası düzenlemelerle korunmaktadır. Bu bildirge, eser sahiplerinin haklarını ve kullanıcıların veri güvenliğini koruma amacı taşır.
 
 Telif Hakkı Koruması
 (ycs-holding.web.app) web sitesindeki tüm içerikler, Fikir ve Sanat Eserleri Kanunu’nun (FSEK) 1. ve 2. maddeleri gereği eser olarak kabul edilmekte ve telif hakları kapsamında korunmaktadır. FSEK 21. ve 22. maddeleri uyarınca, eser sahibinin izni olmaksızın bu içeriklerin kopyalanması, dağıtılması, ticari amaçla kullanılması veya değiştirilmesi kesinlikle yasaktır. Bu yasa dışı eylemler, FSEK 71. madde kapsamında ceza gerektiren bir suç olarak değerlendirilir ve ilgili kişilere 1 yıldan 5 yıla kadar hapis cezası ile ağır para cezası uygulanabilir.
@@ -15,7 +15,7 @@ Verilerin Saklanması ve Silinmesi
 Kullanıcılarımızın iletişim formu aracılığıyla verdiği bilgiler, 30 gün süreyle güvenli sunucularımızda saklanır. Bu sürenin sonunda bu veriler otomatik olarak silinir. Kullanıcılar, KVKK’nın 11. maddesi uyarınca, talep etmeleri halinde kişisel verilerinin anında silinmesini talep edebilirler. Bu talepler, KVKK’nın 7. maddesine göre derhal yerine getirilir ve kullanıcıların verileri teknik ve yasal süreçlere uygun bir şekilde silinir. Ayrıca, kullanıcılar Veri Taşıma Hakkı kapsamında verilerinin başka bir sisteme taşınmasını talep edebilirler.
 
 Veri Güvenliği
-YCŞ HOLDİNG, kullanıcı bilgilerinin güvenliğini sağlamak amacıyla ISO 27001 Bilgi Güvenliği Yönetim Sistemi standartlarına uygun hareket eder. Veriler, ileri düzey şifreleme yöntemleri ile korunmakta olup, izinsiz erişim ve veri sızdırma girişimlerine karşı yüksek düzeyde güvenlik önlemleri uygulanmaktadır.
+YCŞ SOFTWARE, kullanıcı bilgilerinin güvenliğini sağlamak amacıyla ISO 27001 Bilgi Güvenliği Yönetim Sistemi standartlarına uygun hareket eder. Veriler, ileri düzey şifreleme yöntemleri ile korunmakta olup, izinsiz erişim ve veri sızdırma girişimlerine karşı yüksek düzeyde güvenlik önlemleri uygulanmaktadır.
 Kullanıcı bilgilerinin güvenliğini tehdit edecek herhangi bir izinsiz erişim veya veri ihlali durumunda, Türk Ceza Kanunu’nun (TCK) 243. ve 244. maddeleri kapsamında gerekli hukuki işlemler başlatılacaktır. Bu maddeler uyarınca, bilişim sistemlerine yetkisiz girme, verileri yok etme, bozma veya değiştirme girişiminde bulunanlar hakkında 1 yıldan 5 yıla kadar hapis cezası uygulanabilir.
 
 Kolluk Kuvvetlerine Bilgi Verilmesi Durumu
@@ -31,7 +31,7 @@ Web sitemizde kullanıcılarımızın bilgilerini ele geçirmeye çalışan, gü
 Ayrıca, web sitemizin güvenliğini ihlal etmeye çalışan, yasa dışı işlem yapan veya verileri yetkisiz bir şekilde elde etmeye çalışan kişiler hakkında TCK 243. ve 244. maddeleri gereğince suç duyurusunda bulunulacak ve gerekli cezai işlemler başlatılacaktır.
 
 Telif Hakkı İhlallerine Karşı Yaptırımlar
-YCŞ HOLDİNG, bu web sitesindeki tüm içeriklerin telif haklarını sıkı bir şekilde korur ve eser sahibinin izni olmadan yapılan her türlü kopyalama, dağıtma, değiştirme veya ticari kullanıma karşı yasal haklarını saklı tutar. FSEK 70. ve 71. maddeleri gereğince, izinsiz kullanım durumunda kullanıcılar hakkında hukuki ve cezai işlem başlatma hakkı bulunmaktadır. Bu kapsamda, izinsiz kullanım sonucunda oluşan zararların tazmini talep edilebilir ve ilgili kişiler 1 yıldan 5 yıla kadar hapis cezası ile karşı karşıya kalabilirler.
+YCŞ SOFTWARE, bu web sitesindeki tüm içeriklerin telif haklarını sıkı bir şekilde korur ve eser sahibinin izni olmadan yapılan her türlü kopyalama, dağıtma, değiştirme veya ticari kullanıma karşı yasal haklarını saklı tutar. FSEK 70. ve 71. maddeleri gereğince, izinsiz kullanım durumunda kullanıcılar hakkında hukuki ve cezai işlem başlatma hakkı bulunmaktadır. Bu kapsamda, izinsiz kullanım sonucunda oluşan zararların tazmini talep edilebilir ve ilgili kişiler 1 yıldan 5 yıla kadar hapis cezası ile karşı karşıya kalabilirler.
 
 Kullanıcı Hakları ve Yasal Dayanaklar
 Kullanıcılarımızın KVKK 11. maddesi gereğince her zaman kişisel verilerine erişim, düzeltme, silme veya işlenmesini sınırlandırma hakkı vardır. Kullanıcılar, kişisel verilerinin işlenmesiyle ilgili herhangi bir ihlal durumunda KVKK 13. ve 14. maddeleri çerçevesinde veri sorumlusuna başvurma ve hukuki işlem başlatma hakkına sahiptirler. Kullanıcılar ayrıca, GDPR kapsamındaki haklarıyla ilgili olarak AB’ye başvuru yapabilirler.
